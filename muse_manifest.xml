@@ -1,0 +1,61 @@
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1425278441539">
+  <folder name="css">
+    <file name="site_global.css" crc="3797832835"/>
+    <file name="sklepy.css" crc="4190151122" ref="sklepy"/>
+    <file name="o-nas.css" crc="49879516" ref="o-nas"/>
+    <file name="index.css" crc="4033283913" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="phone>index:index:o-nas:sklepy"/>
+    <file name="museutils.js" crc="3793461109" ref="phone>index:index:o-nas:sklepy"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="phone>index:index:o-nas:sklepy"/>
+    <file name="webpro.js" crc="4263367560" ref="index:sklepy"/>
+    <file name="musewpslideshow.js" crc="126372691" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3946374898" ref="index"/>
+    <file name="touchswipe.js" crc="3796284560" ref="index"/>
+    <file name="jquery.musemenu.js" crc="492415246" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:o-nas:sklepy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="sklepy"/>
+    <file name="form_check.php" crc="428372696" ref="sklepy"/>
+    <file name="form_throttle.php" crc="419817817" ref="sklepy"/>
+    <file name="form_process.php" crc="3787855599" ref="sklepy"/>
+    <file name="recaptchalib.php" crc="385583985" ref="sklepy"/>
+    <file name="form-u802.php" crc="318066102" ref="sklepy"/>
+  </folder>
+  <folder name="images">
+    <file name="strona 1 600x1200.jpg" crc="322473990" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="strona 2 600x1200.jpg" crc="151917475" ref="index"/>
+    <file name="strona 3 600x1200.jpg" crc="225409148" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo bez tla.png" crc="446216975" ref="index"/>
+    <file name="logo bez tla2.png" crc="446216975" ref="o-nas:sklepy"/>
+    <file name="o nas.jpg" crc="4184041855" ref="o-nas"/>
+    <file name="na strone sklepy.jpg" crc="3805964805" ref="sklepy"/>
+    <file name="u808-17.png" crc="34657112" ref="sklepy"/>
+    <file name="u808-17-r.png" crc="4076534158" ref="sklepy"/>
+    <file name="u808-17-m.png" crc="3803009818" ref="sklepy"/>
+    <file name="u808-17-fs.png" crc="3954970914" ref="sklepy"/>
+    <file name="recaptchamodeaudio.png" crc="4082011260" ref="sklepy"/>
+    <file name="recaptchamodeaudiorollover.jpg" crc="356175670" ref="sklepy"/>
+    <file name="recaptchamodeaudiomousedown.jpg" crc="4192655525" ref="sklepy"/>
+    <file name="recaptchamodeimage.png" crc="4003859053" ref="sklepy"/>
+    <file name="recaptchamodeimagerollover.jpg" crc="163411335" ref="sklepy"/>
+    <file name="recaptchamodeimagemousedown.jpg" crc="409832536" ref="sklepy"/>
+    <file name="recaptcharefresh.png" crc="3851445761" ref="sklepy"/>
+    <file name="recaptcharefreshrollover.jpg" crc="16886981" ref="sklepy"/>
+    <file name="recaptcharefreshmousedown.jpg" crc="431838989" ref="sklepy"/>
+    <file name="recaptchahelp.png" crc="7417902" ref="sklepy"/>
+    <file name="recaptchahelprollover.jpg" crc="450414995" ref="sklepy"/>
+    <file name="recaptchahelpmousedown.jpg" crc="101282582" ref="sklepy"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4107295331" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="117538547" mt="1425225182560" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="3809034676" mt="1425251922109" redirect="true"/>
+  <file name="o-nas.html" crc="4031162258" mt="1425251234118" redirect="true"/>
+  <file name="sklepy.html" crc="468874055" mt="1425250806967" redirect="true"/>
+</manifest>
